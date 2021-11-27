@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f04a920.chunk.css",
-    "main.js": "/static/js/main.e796c7cc.chunk.js",
-    "main.js.map": "/static/js/main.e796c7cc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dbdae0cb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dbdae0cb.js.map",
+    "main.css": "/static/css/main.00d897b2.chunk.css",
+    "main.js": "/static/js/main.b581d9d9.chunk.js",
+    "main.js.map": "/static/js/main.b581d9d9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f716b60e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f716b60e.js.map",
     "static/css/2.9f0b74ee.chunk.css": "/static/css/2.9f0b74ee.chunk.css",
-    "static/js/2.326d9bc9.chunk.js": "/static/js/2.326d9bc9.chunk.js",
-    "static/js/2.326d9bc9.chunk.js.map": "/static/js/2.326d9bc9.chunk.js.map",
-    "static/js/3.212212bc.chunk.js": "/static/js/3.212212bc.chunk.js",
-    "static/js/3.212212bc.chunk.js.map": "/static/js/3.212212bc.chunk.js.map",
+    "static/js/2.25402555.chunk.js": "/static/js/2.25402555.chunk.js",
+    "static/js/2.25402555.chunk.js.map": "/static/js/2.25402555.chunk.js.map",
+    "static/js/3.3157068b.chunk.js": "/static/js/3.3157068b.chunk.js",
+    "static/js/3.3157068b.chunk.js.map": "/static/js/3.3157068b.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.9f0b74ee.chunk.css.map": "/static/css/2.9f0b74ee.chunk.css.map",
-    "static/css/main.0f04a920.chunk.css.map": "/static/css/main.0f04a920.chunk.css.map",
-    "static/js/2.326d9bc9.chunk.js.LICENSE.txt": "/static/js/2.326d9bc9.chunk.js.LICENSE.txt",
+    "static/css/main.00d897b2.chunk.css.map": "/static/css/main.00d897b2.chunk.css.map",
+    "static/js/2.25402555.chunk.js.LICENSE.txt": "/static/js/2.25402555.chunk.js.LICENSE.txt",
     "static/media/binance.d8c61230.svg": "/static/media/binance.d8c61230.svg",
     "static/media/chevron-left.c80cdd8e.svg": "/static/media/chevron-left.c80cdd8e.svg",
     "static/media/ethereum.b3ec96d9.svg": "/static/media/ethereum.b3ec96d9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbdae0cb.js",
+    "static/js/runtime-main.f716b60e.js",
     "static/css/2.9f0b74ee.chunk.css",
-    "static/js/2.326d9bc9.chunk.js",
-    "static/css/main.0f04a920.chunk.css",
-    "static/js/main.e796c7cc.chunk.js"
+    "static/js/2.25402555.chunk.js",
+    "static/css/main.00d897b2.chunk.css",
+    "static/js/main.b581d9d9.chunk.js"
   ]
 }
